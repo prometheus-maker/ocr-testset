@@ -1,0 +1,165 @@
+15 
+EP 2 000 008 B1
+16 
+[0049]
+Systems and methods consistent with the em-
+2)
+Coatingson woven materials suchascloth topro-
+bodiments disclosedherein may operateoverarelatively
+vide fire retardation, or functionalize the surface - to
+wide range of temperatures and pressures. Necessary
+provide moisture or stain resistance, for example.
+operating temperaturesandpressures willlargely be de-
+3)
+Gasorchemicalbarriers or tubing, suchasplastic
+termined byspecificprocesschemistry. However, for ex-
+tubing used in chemical or medical applications.
+5
+ample, operating pressures may range from relatively
+4)
+Mechanical/physical
+property
+improvements
+in
+low vacuum environments of approximately 0,13 Pa (1
+woven or pressed-sheet materials - for example, a
+millitorr), to positive pressure environments of 667-2000
+film that could provide "filler" to join and bind the in-
+hPa (500-1500Torr (approximately 1 to2 atmospheres))
+dividual particles or fibers.
+Pressures may be different in different precursor zones,
+10
+to accommodate the use of precursors having different
+[0055]
+Throughout thisspecification,referenceto "one
+vapor pressure, molecular mobility, and reactivity char-
+embodiment," or "an
+embodiment," or "some embodi-
+acteristics, for example. In some embodiments, two or
+ments" means that a particular described feature, struc-
+more precursor zones and the inert gas zone may be
+ture, or characteristic is included in at least one embod-
+maintained
+at
+different
+temperatures
+to
+optimize
+f
+ilm
+15
+iment. Thus appearances of the phrases "in one embod-
+properties and/or
+throughput.
+Operating
+temperatures
+iment," "in an embodiment,""in some embodiments,"and
+may also vary frombelowroomtemperature to well above
+the like, in various places throughout this specification
+room temperature, at operating temperatures typical of
+are not necessarilyallreferring to thesameembodiment.
+traveling wave ALD reactors.
+Furthermore,thedescribedfeatures, structures, orchar-
+[0050]
+Heated rollers or turning guides 64, 66, 164,
+acteristics may be combined in any suitable manner in
+166, 364, 366 may be utilized in some embodiments, to
+one or more embodiments. In some cases, the invention
+heat the substrate and promote thin film growth via ALD.
+may be practiced without one or more of the specific de-
+One or more of the precursor zones 14, 16, 114, 116,
+tails or with other methods, components, materials, etc.
+314, 316and/or theisolationzone 20,120,320 mayalso
+In other instances, well-known structures, materials, or
+be heated. The passageways54, 56, 154, 156, 354, 356
+operations are not shown or not described in detail to
+may be heated by injecting a heated inert gas directly
+avoid obscuring aspects of the embodiments.
+into the passageways.
+[0056]
+It will be obvious to those having skill in the art
+[0051]
+In oneembodiment, aplasmadischarge oroth-
+that many changes may be made to the details of the
+er source of radicals is included in one or more of the
+above-described embodiments without
+departing from
+precursor zones, or in an adjacent chamber, to enable
+the underlying principles of the invention. The scope of
+plasma- or radical-assisted ALD film growth.
+the present invention should, therefore, be determined
+[0052]
+Thesystems and methodsdescribedhereinwill
+only by the following claims.
+normally result in deposition on both faces of the sub-
+strate. To achieve single-sided deposition, the substrate
+may be layered, folded, or masked for deposition, then
+Claims
+peeled apart, unfolded, or the mask removed to result in
+a finishedproduct. Other possible methods of single- sid-
+1.
+A system (10, 110,310) for depositing a thin film on
+ed deposition include deposition on a flattened tubular
+a flexible substrate (12, 112, 312), comprising:
+substrate followed by slitting lengthwise, or slitting of a
+solid substrate after double-sided deposition.
+a first precursor zone (14, 114, 314) into which
+[0053]
+The systemsand methodsdescribedhereinare
+a first precursor gas is introduced when the sys-
+notlimitedto deposition onwebsubstratessuchasplas-
+tem is in use;
+ticfilms or metal foil. The same basicconfigurationcould
+a second
+precursor
+zone
+16, 116, 316)
+(
+into
+be used to coat wire, flexible tubing, woven materials,
+which a second precursor gas different from the
+such as cloth, braided materials such as braided wire or
+first precursor gas is introduced when the sys-
+rope, non-woven sheet materials such as paper, con-
+tem is in use;
+struction vapor barrier, etc.
+an isolation zone (20, 120, 320)interposed be-
+[0054]
+The following are further examples of potential
+tween the first and second precursor zones and
+applications
+for
+the
+systems
+and
+methods
+disclose
+d
+into which an inert gas is introduced when the
+herein:
+50
+system is in use, the isolation zone including a
+series of flow-restricting passageways (54, 56,
+1)
+On plastic or metal foil, as a gas or chemical bar-
+154, 956, 354, 356) opening into the first and
+rier, as an electrical insulator, as an electrical con-
+second precursor zones and arranged to pro-
+ductor, or as a semiconductor. Specific applications
+vide a series of pathways along which a flexible
+include oxygen
+and
+moisture
+barriers
+for
+food
+or
+55
+substrate (12, 112,312) is threaded to traverse
+medical packaging, electrically insulating, conduct-
+back and forth between the first precursor zone
+ing orsemi- conducting films for largeareasolarcells,
+and the second precursor zone multiple times
+flexible displays, and flexible electronics.
+and each time through the isolation zone; and a
+9

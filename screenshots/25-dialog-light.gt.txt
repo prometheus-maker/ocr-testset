@@ -1,0 +1,5 @@
+Warning
+
+Connection lost. Retrying in 10 seconds.
+
+Cancel OK

@@ -1,0 +1,106 @@
+US 9,423,690 B2 
+263 
+264 
+wherein in Formula (2), 
+L$_{3 }$ and L$_{4 }$ each independently represent a single bond or 
+(1-0) 
+a divalent linking group, 
+Y represents an atomic group capable of forming a lactone 
+structure, and 
+Re represents a hydrogen atom, an alkyl group, a cyano 
+group or a halogen atom. 
+9. 
+The pattern forming method according to claim 
+1, 
+wherein the compound (B) is a compound represented by 
+Formula (3-1) or (3-2): 
+(3-1) 
+(1-2) 
+(3-2) 
+wherein in Formula (3-1), 
+Xfs each independently represents a fluorine atom or an 
+wherein in Formula (1-0), 
+alkyl group substituted with at least one fluorine atom, 
+R$_{1 }$ and R$_{2 }$ each independently represent an alkyl group, 
+Ru and R$_{12 }$each independently represent an alkyl group, 
+Ru and R$_{12 }$ each independently represent a hydrogen 
+R$_{13 }$ represents a hydrogen atom or an alkyl group, 
+atom, a fluorine atom or an alkyl group, and when a 
+Ru and R$_{12 }$may be bound with each other to form a ring, 
+plurality of Ru and R$_{12 }$ is present, Ru’s may be the 30 
+and Ru and R$_{13 }$may be bound with each other to form 
+same or different and R$_{12}$’s may be the same or 
+a ring, 
+different, 
+Ra represents a hydrogen atom, an alkyl group, a cyano 
+Lu represents a divalent linking group, and when a 
+group or a halogen atom, and L$_{1 }$ represents a single 
+plurality of Lu is present, Lu’s may be the same or 
+bond or a divalent linking group, 
+different, 
+in Formula (1-2), 
+A represents an organic group, 
+Rb represents a hydrogen atom, an alkyl group, a cyano 
+Ml+ represents a cation, 
+group or a halogen atom, 
+R$_{3 }$ represents a substituent, 
+x
+represents an integer of 1 to 20, 
+n$_{1 }$ represents an integer of 1 or 2, n$_{2 }$ represents an integer 
+y represents an integer of 0 to 10, 
+of Oto 4, 
+z represents an integer of 0 to 10, 
+when n$_{2 }$ represents an integer of 2 to 4, R$_{3 }$’s may be bound 
+in Formula (3-2), 
+with each other to form a ring, and 
+Rc$_{1 }$ and Rc$_{2 }$ each independently represent an organic 
+L$_{2 }$ represents a single bond, --COO- or -CONR$_{4}$
+-, 
+group, and Rc$_{1 }$ and Rc$_{2 }$ may be bound with each other 
+and R$_{4 }$ represents a hydrogen atom or an alkyl group. 
+to form a ring, and 
+12. 
+A resist film formed by using the electron beam›
+MY 
+represents a cation. 
+sensitive or extreme ultraviolet ray-sensitive resin compo›
+sition according to claim 
+11. 
+10. 
+The pattern forming method according to claim 
+1, 
+for 
+use in fabricating semiconductor microcircuits. 
+13. 
+A method for manufacturing an electronic device 
+11. 
+An electron beam-sensitive or extreme ultraviolet 
+comprising: 
+ray-sensitive resin composition, comprising a resin (A) 
+(i)
+providing a substrate for a semiconductor or a circuit 
+board; and 
+having a repeating unit represented by Formula (1-0) and a 
+(ii) performing the pattern forming method according on 
+repeating unit represented by Formula (1-2), a compound 
+claim 
+1 
+to the substrate. 
+(B)
+capable of generating an acid upon irradiation with an 
+14. 
+The pattern forming method according to claim 
+1, 
+electron beam-sensitive or extreme ultraviolet ray, and a 
+wherein the content of the repeating unit represented by 
+solvent (C), 
+Formula (1-0) is 60 mo! % or more based on the whole 
+wherein a content of the repeating unit represented by 
+repeating units in the resin (A). 
+Formula (1-0) is 45 mo!% or more based on a whole 
+repeating units in the resin (A): 
+* 
+* 
+* 
+* 
+* 

@@ -1,0 +1,8 @@
+Orders
+ID	Customer	Status	Amount
+6851	Ken Ito	Pending	£4,112.19
+1203	Nina Petrova	Pending	£1,296.42
+1748	Sara Haddad	Refunded	€2,210.30
+8894	Elena Rossi	Pending	£4,717.86
+6885	Priya Raman	Refunded	£2,169.91
+6083	Jonas Lind	Pending	£6,790.83

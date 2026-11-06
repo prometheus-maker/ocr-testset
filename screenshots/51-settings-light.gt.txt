@@ -1,0 +1,13 @@
+Settings
+Dark mode
+On
+Two-factor authentication
+Enabled
+Backup
+Daily at 02:00
+Auto-update
+Off
+Notifications
+Mentions only
+Language
+English (UK)

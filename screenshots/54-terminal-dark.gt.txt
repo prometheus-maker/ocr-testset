@@ -1,0 +1,7 @@
+$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+$ python -m pytest -q
+48 passed, 2 skipped in 3.91s
+$ docker ps
+CONTAINER ID   IMAGE          STATUS

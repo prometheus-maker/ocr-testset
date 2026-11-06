@@ -1,0 +1,53 @@
+Step 7.
+Complete the definition by pressing the Enter key.
+Finally, the defined element appears on the image area as shown in the
+following display.
+Design Overlay
+Columns:
+1- 74
+Control
+. .
+Source overlay . . . . . STATIONERY
+*...+....1....+....2....+....3....+....4....+....5....+....6....+....7....
+001
+002
+*T001 s an example.
+003
+004
+005
+006
+007
+008
+009
+010
+011
+012
+013
+014
+015
+016
+017
+More...
+F3=Exit
+F6=Text
+F9=Line
+F10=Box
+F11=Bar code
+F21=Element edit
+F22=Block edit
+F24=More keys
+Repeat the above steps to define the rest of the elements.
+Step 8.
+After you define all the elements, press the F3 key to save the overlay, the
+record layout, or the page layout.
+Text
+To create a text element, press the F6 (Text) key and the key entry area appears in
+the lower position of the display as follows. This display also appears by pressing
+the F14 key to change a text element. When you press Enter, the Overlay Utility
+and the Print Format Utility check the validity of the entered parameters. If errors
+do not exist, the operation is completed and the key entry area disappears from the
+display.
+By pressing the F4 (Detail) key, you can define the detailed characteristics of the
+text element.
+242
+AFP Utilities for iSeries: User’s Guide

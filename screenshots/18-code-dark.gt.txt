@@ -1,0 +1,7 @@
+1      return sum(i.price * i.qty for i in items)
+  2  
+  3  for user in users:
+  4      if user.active and not user.banned:
+  5          send_welcome(user.email)
+  6  
+  7  const limit = 25;

@@ -1,0 +1,8 @@
+Orders
+ID	Customer	Status	Amount
+1503	Sara Haddad	Pending	€6,833.03
+9136	Luis Ferreira	Pending	£4,139.10
+6775	Nina Petrova	Paid	$5,887.88
+1481	Ben Carter	Pending	€2,915.01
+4776	Ana Kovač	Pending	$9,775.18
+4407	Jonas Lind	Paid	$2,019.95

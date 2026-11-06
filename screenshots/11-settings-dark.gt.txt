@@ -1,0 +1,13 @@
+Settings
+Notifications
+Mentions only
+Storage used
+41.7 GB of 64 GB
+Backup
+Daily at 02:00
+Auto-update
+Off
+Battery saver
+When below 20%
+Dark mode
+On

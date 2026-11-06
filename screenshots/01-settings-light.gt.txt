@@ -1,0 +1,13 @@
+Settings
+Notifications
+Mentions only
+Backup
+Daily at 02:00
+Time zone
+Europe/Zagreb
+Storage used
+41.7 GB of 64 GB
+Dark mode
+On
+Language
+English (UK)

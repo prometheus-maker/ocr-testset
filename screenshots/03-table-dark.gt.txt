@@ -1,0 +1,8 @@
+Orders
+ID	Customer	Status	Amount
+5938	Luis Ferreira	Refunded	€2,045.70
+6451	Ben Carter	Refunded	$9,883.70
+5712	Jonas Lind	Pending	$9,770.49
+6194	Elena Rossi	Refunded	$4,757.23
+4102	Ken Ito	Paid	$4,261.60
+2131	Maya Okafor	Paid	£2,134.19

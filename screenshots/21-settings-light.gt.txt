@@ -1,0 +1,13 @@
+Settings
+Font size
+Medium
+Backup
+Daily at 02:00
+Notifications
+Mentions only
+Two-factor authentication
+Enabled
+Time zone
+Europe/Zagreb
+Language
+English (UK)

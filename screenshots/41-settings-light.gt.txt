@@ -1,0 +1,13 @@
+Settings
+Dark mode
+On
+Two-factor authentication
+Enabled
+Time zone
+Europe/Zagreb
+Language
+English (UK)
+Notifications
+Mentions only
+Auto-update
+Off

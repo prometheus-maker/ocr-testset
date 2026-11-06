@@ -1,0 +1,60 @@
+You need to do the following before you create a printout with the overlay:
+v
+Put the correct page segment in a library.
+v
+Put the library in the library list.
+v
+Make sure the library that contains the desired page segment appears in the
+library list before any other library containing a page segment of the same
+name.
+3.
+It is unpredictable which font will be used if a page segment contains text. The
+font used to print the text can not be specified. Depending on the situation, a
+font specified for text within a page segment may be used, or the printer
+default font may be used.
+4.
+It is not checked if a page segment contains either or both IM1 and IO1 format
+images. IM1 images may not be printed in the desired resolution on some
+printers, and IO1 images cannot be printed on some printers. When IOCA
+images are used, support only IOCA function set 10.
+See “Appendix A. Printer Characteristics” on page 417 for restrictions of each
+printer.
+5.
+When 90, 180, or 270 is specified in the
+Degree of rotation
+prompt on the Define
+Overlay Specifications screen, page segments defined in the source overlay do
+not rotate with the overlay.
+Line
+Nothing is printed for lines that have a greater width than length.
+Box
+Nothing is printed for boxes that have line width specified which is greater than
+either the box width or the box height.
+Text in Box
+Text in a box is formatted by using the character spacing parameter specified on
+the box element. If the font size is different, formatting is incorrect.
+For example:
+Character spacing :
+Horizontal........................ 10
+Vertical..........................
+6
+Font for text in a box
+width ............................
+0.2
+inches ( 5 CPI )
+height ...........................
+0.33
+inches ( 3 CPI )
+Text will be printed to the right of the correct position for center. The second and
+subsequent lines will partly duplicate the preceding lines.
+To avoid this situation, specify the character spacing value equal to that of the font.
+Shading in Box
+It sometimes takes a long time to print shaded boxes (especially with the IBM 4028
+printer).
+Graphics (GDF) Size
+AFP Utilities for iSeries has no limitations and restrictions for the graphics (GDF)
+size, but printing an overlay which contains some large graphics (GDF) or too
+many graphics may cause a printer storage excess error. In such cases, check the
+printer storage size.
+393
+Chapter 22. Limitations and Restrictions

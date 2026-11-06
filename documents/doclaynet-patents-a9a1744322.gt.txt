@@ -1,0 +1,119 @@
+US
+7,851,130 B2 
+91 
+92 
+-continued 
+(A) 
+R2s1 
+OH 
+OH 
+I 
+R2so_N-R2s2 
+Ls 
+(B) 
+I 
+I 
+-N-C=N-
+(C) 
+I 
+I 
+=C-N=C-
+(D) 
+I 
+I 
+=C-N-
+(E) 
+Ls 
+rS4 
+rss 
+OH 
+OH 
+1 
+R2s3_C-N-C-R2s6 
+I 
+I 
+OH 
+OH 
+Ls 
+In formula (A), R
+250
+251 
+and R
+252 
+each represents a 
+, R
+hydrogen atom, an alkyl group having from 1 to 20 carbon 
+atoms, a cycloalkyl group having from 3 to 20 carbon atoms, 
+250 
+or an aryl group having from 6 to 20 carbon atoms, and R
+and R
+$^{251 }$may be bonded to each other to form a ring. These 
+groups may have a substituent, and as the alkyl group and 
+cycloalkyl group having a substituent, an aminoalkyl group 
+having from 1 to 20 carbon atoms or an aminocycloalkyl 
+group having from 3 to 20 carbon atoms, a hydroxyalkyl 
+group having from 1 to 20 carbon atoms or a hydroxycy›
+Ls 
+cloalkyl group having from 3 to 20 carbon atoms are pre›
+OH 
+OH 
+ferred. 
+These groups may contain an oxygen atom, a sulfur atom 
+or a nitrogen atom in the alkyl chain. 
+In formula (E), R 
+253
+254
+$^{255 }$and R $^{256 }$each represents 
+, R 
+, R 
+an alkyl group having from 1 to 6 carbon atoms, or a 
+cycloalkyl group having from 3 to 6 carbon atoms. 
+As the preferred examples of basic compounds, guanidine, 
+aminopyrrolidine, pyrazole, pyrazoline, piperazine, amino-
+morpholine, aminoalkylmorpholine, and piperidine can be 
+exemplified, and these compounds may have a substituent. As 
+more preferred basic compounds, compounds having an imi›
+dazole structure, a diazabicyclo structure, an onium hydrox›
+ide structure, an onium carboxylate structure, a trialkylamine 
+structure, an aniline structure, or a pyridine structure, alky›
+lamine derivatives having a hydroxyl group and/or an ether 
+bond; and aniline derivatives having a hydroxyl group and/or 
+an ether bond can be exemplified. 
+As the compounds having an imidazole structure, imida-
+zole, 2,4,5-triphenylimidazole, and benzimidazole can be 
+In the above formulae, L$_{1 }$to L$_{8}$
+which may be the same or 
+, 
+exemplified. As the compounds having a diazabicyclo struc›
+different, each represents a hydrogen atom, a hydroxymethyl 
+ture, 1,4-diazabicyclo[2.2.2]octane, 1,5-diazabicyclo[ 4.3.0] 
+group, a methoxymethyl group, an ethoxymethyl group, or an 
+nona-5-ene, and 1,8-diazabicyclo[5.4.0]undeca-7-ene can be 
+alkyl group having from 1 to 6 carbon atoms. 
+exemplified. As the compounds having an onium hydroxide 
+structure, triarylsulfonium hydroxide, phenacylsulfonium 
+Crosslinking agents are used generally in proportion of 
+hydroxide, sulfonium hydroxide having a 2-oxoalkyl group, 
+from 3 to 70 mass% in the solids content of the photosensitive 
+specifically triphenylsulfonium hydroxide, tris(t-butyl-phe›
+composition, and preferably from 5 to 50 mass %. 
+ny l)sulfonium 
+hydroxide, 
+bis( t-buty lpheny l)iodonium 
+hydroxide, phenacylthiophenium hydroxide, and 2-oxopro-
+Basic Compound (F): 
+pyl-thiophenium hydroxide can be exemplified. The com›
+For decreasing the fluctuation of performances due to 
+pounds having an onium carboxylate structure are com›
+aging during the period of time from exposure to heating, it is 
+pounds having an onium hydroxide structure in which the 
+preferred for the photosensitive composition of the invention 
+anionic part is carboxylated, e.g., acetate, adamantane-1-car›
+to contain a basic compound. 
+boxylate, and perfluoroalkyl carboxylate are exemplified. As 
+As the preferred structures of basic compounds, the struc›
+the compounds having a trialkylamine structure, tri(n-butyl) 
+tures represented by any of the following formulae (A) to (E) 
+amine and tri(n-octyl)amine can be exemplified. As the 
+can be exemplified. 
+aniline compounds, 2,6-diisopropylaniline and N,N-dim-

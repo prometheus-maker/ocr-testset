@@ -1,0 +1,81 @@
+Convert to Page Segment
+Type choices, press Enter.
+Page segment........
+LOGO
+Name
+Library
+. ........
+MYLIB
+Name, *CURLIB
+Source object type . ....
+2
+1=PC document, 2=File
+From file
+. ........
+Name
+Library
+*CURLIB
+Name, *LIBL, *CURLIB
+From member
+........
+Name
+Change image size
+. ....
+N
+Y=Yes, N=No
+Degree of rotation . ....
+0
+0, 90, 180, 270
+Authority
+.........
+*LIBCRTAUT
+Name, *LIBCRTAUT, *CHANGE
+*ALL, *USE, *EXCLUDE
+Text 'description' . ....
+Replace
+. . ........
+Y
+Y=Yes, N=No
+Bottom
+F3=Exit
+F5=Refresh
+F12=Cancel
+The following table describes the fields on the Convert to Page Segment display:
+Field Name
+Description
+Page segment
+Specifies the name of the page segment to be created.
+Library
+Specifies the name of the library in which the page segment will be
+created. The possible library values in this prompt are:
+*CURLIB
+The current library for the job is used to create the page
+segment. If no library is specified as the current library for
+the job, library QGPL is used.
+Name
+Specify the library in which the page segment will be
+created.
+Source object type
+Specify one of the following to specify from which type of source
+object you are creating a page segment:
+To create a page segment from a PC document in an iSeries
+1
+folder.
+2
+To create a page segment from a physical file member.
+From folder
+Specify the name of the folder that contains the PC document from
+which you want to create a page segment.
+From PC document
+Specify the name of the PC document from which you want to create
+a page segment.
+From file
+Specify the name of the file that contains the member from which you
+want to create a page segment.
+Library
+Specify the name of the library that contains the file.
+From member
+Specify the name of the physical file member from which you want to
+create a page segment.
+333
+Chapter 18. Convert to Page Segment Function

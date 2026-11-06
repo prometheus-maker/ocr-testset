@@ -1,0 +1,8 @@
+Orders
+ID	Customer	Status	Amount
+5891	Priya Raman	Paid	£4,935.69
+3559	Maya Okafor	Pending	£7,724.11
+9153	Ken Ito	Paid	£6,641.35
+1354	Omar Said	Paid	€665.00
+5203	Nina Petrova	Pending	£9,530.90
+7491	Luis Ferreira	Pending	$4,139.45

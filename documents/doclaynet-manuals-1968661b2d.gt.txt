@@ -1,0 +1,56 @@
+You can also print variable data, such as the field value of the first record in the
+group, the field value of the last record in the group, the total of the field values in
+the group, the average of the field values in the group, the maximum field value in
+the group, the minimum field value in the group, and the record counts of the
+group, by specifying character strings which are called
+summary data
+in the text
+data on a text element or a box element.
+Elements
+The record layout and the page layout are defined by placing text, page segments,
+lines, boxes, graphics, or bar codes, which are called
+elements
+.
+The data in the database file record can be specified as text elements, bar code
+elements, the text in box elements, page segments, or graphics elements in a record
+layout.
+The fixed data can be specified as text elements, line elements, box elements, bar
+code elements, page segment elements, or graphics elements in the record layout
+or the page layout.
+If you print data in a field as a text element, text in a box element, a bar code
+element, a page segment, or a graphics element, specify the field name which is
+appended by an ampersand (&) before the name and a period (.) after the name as
+a parameter of the element data.
+See “Chapter 13. Design Operation” on page 227 for more information.
+Record Selection
+You can specify a condition for the field in the database file record to select data in
+the field to be printed. When you don’t specify this option, all data in the database
+file record is printed.
+Printout Specifications
+The Define Printout Specifications display allows you to define how the printout
+will be printed, such as:
+v
+Number of copies
+v
+Print quality
+v
+Source drawer
+Mapping Object Name
+You can specify a field name as any of the following object names:
+v
+Page segment
+v
+Folder
+v
+PC document
+v
+Library
+v
+File
+v
+Member
+The value of the field in the input database file is used as the object name. In some
+cases, the values in the database file may not be appropriate for object names. For
+example, values like ’A.B.C’ or ’IBM Corporation’ cannot be object names. You do
+100
+AFP Utilities for iSeries: User’s Guide

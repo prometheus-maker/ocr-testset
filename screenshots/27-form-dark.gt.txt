@@ -1,0 +1,8 @@
+Create account
+Full name
+Email
+Phone
+Sign up
+Omar Said
+someone@example.com
++1 555 831 4559

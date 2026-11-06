@@ -1,0 +1,60 @@
+Field Name
+Description
+1=Select
+Allows you to select one or more objects from the list.
+Opt
+Specify 1 (Select) in the
+Opt
+column beside the object you want to select.
+Object
+The objects for which you can specify the mapping.
+When you select
+Page segment
+on the Specify Mapping Object Name display, the
+following display appears:
+Note:
+Similar displays appear for other objects.
+Mapping Page Segment Name
+Type choices, press the Enter key.
+Page
+NBR Database field value
+segment
+1
+___________________________________________________________
+_______
+2
+3
+___________________________________________________________
+_______
+4
+5
+___________________________________________________________
+_______
+6
+7
+___________________________________________________________
+_______
+8
+9
+___________________________________________________________
+_______
+10
+11
+___________________________________________________________
+_______
+12
+13
+___________________________________________________________
+_______
+14
+15
+___________________________________________________________
+_______
+_______
+More...
+More...
+F3=Exit
+F5=Refresh
+F12=Cancel
+192
+AFP Utilities for iSeries: User’s Guide

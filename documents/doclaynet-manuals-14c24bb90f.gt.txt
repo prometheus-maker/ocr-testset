@@ -1,0 +1,68 @@
+Change Text Detail
+Mark:
+*T001
+Measurement method:
+Row/Column
+Type choices, press Enter.
+Character size:
+Width
+. . . . . . . . . .
+*DEFAULT
+*DEFAULT, 0.10-99.99
+Height . . ........
+Bottom
+F3=Exit
+F4=Prompt
+F5=Refresh
+F6=Change measurement method
+F10=Edit numeric
+F12=Cancel
+Field Name
+Description
+Mark
+Shows the element mark. A mark is either a system-assigned mark or
+a user assigned-name, and is the same as that shown on the display. A
+mark is six characters long, the first character is an asterisk (*), and the
+last character is a blank. The middle four characters are:
+v
+For a system-assigned mark, the middle four characters are one
+character for the element type followed by a three-digit sequence
+number. For text elements, the element type is T and the sequence
+number is 001 to 999.
+v
+For a user-assigned name, the middle four characters are the four
+characters specified as the value for the element name.
+Measurement
+Shows the measurement method used to specify position. You can
+method
+change this value by pressing F6. You can also select centimeters or
+inches for the measurement unit in the Define Overlay Specifications
+display or in the Define PFD Specifications display by specifying unit
+of measure.
+Position
+The position parameter consists of across and down values. These
+values specify the horizontal and vertical position of the element being
+defined.
+Text data
+Specify your text data in this field. Text data can be up to 203 bytes in
+length. If you need to enter or update text data that is more than 203
+bytes in length, you have to define it as multiple text elements.
+For a record layout of the printout format definition (PFD definition),
+you can enter a database field name. For example, a field name
+PRODCT is specified as
+†
+&PRODUCT
+†
+You can see the list of fields
+and select one of them by placing the cursor in the
+Text data
+prompt
+and pressing the F4 key.
+You can also specify reserved variable data in a record layout and a
+page layout, and summary data in a page layout. See “Chapter 10.
+Work with PFD Definitions” on page 143 for more information.
+Note:
+You can enter only one line of text for a text element. To enter
+multiple lines of text, use a box element or multiple text elements.
+245
+Chapter 13. Design Operation

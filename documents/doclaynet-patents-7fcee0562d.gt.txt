@@ -1,0 +1,104 @@
+US 2020/0050106 Al 
+Feb. 13, 2020 
+13 
+with Leaving Group That Leaves by Action of Acid) and 
+repeating unit which has a fluorine atom or an iodine atom, 
+(Repeating Unit Having Acid Group) as described above. 
+and has an acid group, and a repeating unit having a fluorine 
+[0185] 
+That is, neither the structure in which a polar group 
+atom or an iodine atom. 
+is protected with a leaving group that leaves by the action of 
+[0195] 
+(Repeating Unit Having Lactone Group) 
+an acid nor the acid group is included in the repeating unit 
+having a fluorine atom or an iodine atom. 
+[0196] 
+The resin (A) may further have a repeating unit 
+having a lactone group. 
+[0186] 
+As the repeating unit having a fluorine atom or an 
+iodine atom, a repeating unit represented by Formula 
+(C)
+is 
+[0197] 
+As the lactone group, any group may be used as 
+preferable. 
+long as it has a lactone structure, but the lactone group is 
+preferably a group having a 5- to 7-membered ring lactone 
+structure, and more preferably a group having a 5-
+to 
+(C) 
+7-membered ring lactone structure to which another ring 
+structure is fused in the form of forming a bicyclo structure 
+or a spiro structure. 
+[0198] 
+The resin (A) more preferably has a repeating unit 
+having a group having a lactone structure represented by any 
+one of General Formulae (LCl-1) to (LCl-17). Further, the 
+group having a lactone structure may be bonded directly to 
+[0187] 
+L$_{5 }$ represents a single bond or an ester group. 
+the main chain. As the lactone structure, a group represented 
+[0188] 
+R$_{9 }$ represents a hydrogen atom, or an alkyl group 
+by General Formula (LCl-1), General Formula (LCl-4), 
+which may have a fluorine atom or an iodine atom. 
+General Formula (LCl-5), General Formula (LCl-6), Gen›
+eral Formula (LCl-13), or General Formula (LCl-14) is 
+[0189] 
+R$_{10 }$ represents a hydrogen atom, an alkyl group 
+which may have a fluorine atom or an iodine atom, a 
+preferable. 
+cycloalkyl group which may have a fluorine atom or an 
+iodine atom, an aryl group which may have a fluorine atom 
+or an iodine atom, or a group formed by combination 
+LCl-1 
+thereof. 
+[0190] 
+The content of the repeating unit having a fluorine 
+atom or an iodine atom is preferably 0% to 50% by mole, 
+more preferably 5% to 45% by mole, and still more pref›
+erably 10% to 40% by mole with respect to all the repeating 
+units in the resin (A). 
+LCl-2 
+[0191] 
+Furthermore, from the viewpoint that (Repeating 
+Unit Having Structure in Which Polar Group Is Protected 
+with Leaving Group That Leaves by Action of Acid) and 
+(Repeating Unit Having Acid Group) are not included in the 
+repeating unit having a fluorine atom or an iodine atom as 
+described above, the content of the repeating unit having a 
+fluorine atom or an iodine atom is also intended to mean the 
+LCl-3 
+content of the repeating unit having a fluorine atom or an 
+iodine atom excluding (Repeating Unit Having Structure in 
+Which Polar Group Is Protected with Leaving Group That 
+Leaves by Action of Acid) and (Repeating Unit Having Acid 
+Group). 
+[0192] 
+As described above, the repeating unit having a 
+structure in which a polar group is protected with a leaving 
+LCl-4 
+group that leaves by the action of an acid may include a 
+Qt 
+fluorine atom or an iodine atom, and the repeating unit 
+having an acid group may also include a fluorine atom or an 
+iodine atom. 
+[0193] 
+Among the repeating units of the resin (A), the total 
+content of the repeating unit including at least one of a 
+0 
+fluorine atom or an iodine atom is preferably 20% to 100% 
+LCl-5 
+by mole, more preferably 30% to 100% by mole, and still 
+more preferably 40% to 100% by mole with respect to all the 
+fl 
+repeating units of the resin (A). 
+[0194] 
+In addition, examples of the repeating unit includ›
+ing at least one of a fluorine atom or an iodine atom include 
+a repeating unit which has a fluorine atom or an iodine atom, 
+and has a structure in which a polar group is protected with 
+0 
+a leaving group that leaves by the action of an acid, and a 

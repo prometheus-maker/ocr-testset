@@ -1,0 +1,13 @@
+Settings
+Backup
+Daily at 02:00
+Time zone
+Europe/Zagreb
+Font size
+Medium
+Battery saver
+When below 20%
+Two-factor authentication
+Enabled
+Notifications
+Mentions only

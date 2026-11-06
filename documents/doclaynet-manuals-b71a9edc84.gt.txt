@@ -1,0 +1,81 @@
+Field Name
+Description
+End position
+The position parameter consists of across and down values. These
+values specify the horizontal and vertical end position of the element
+being defined.
+Press Enter, the F3, or F12 key after you specify the parameters, or press the F4 key
+to specify more parameters.
+When you press the F4 key, the following display appears. You can specify further
+details of the box element. For example, you can specify the line type, the line
+width, the line placement, the shading pattern, and the shading type on this
+display.
+Define Box Detail
+Mark:
+*B002
+Measurement method:
+Row/Column
+Type choices, press Enter.
+Start position:
+Across ..........
+5
+1-999
+Down . . .........
+4
+End position:
+Across ..........
+60
+1-999
+Down . . .........
+10
+Element
+. .........
+Name
+Line type
+.........
+1
+1=Solid, 2=Dashed, 3=Dotted
+Line width . . . . . . . . .
+*MEDIUM
+*NARROW, *MEDIUM, *WIDE
+0.00-1.00
+Line placement .......
+1
+1=Middle, 2=Border
+More...
+More...
+F3=Exit
+F4=Prompt
+F5=Refresh
+F6=Change measurement method
+F12=Cancel
+F12=Cancel
+Press the Roll Up (Page Down) key to see the next page of the Define Box Detail
+display.
+Define Box Detail
+Mark:
+*B002
+Measurement method:
+Row/Column
+Type choices, press Enter.
+Shading:
+Pattern
+.........
+1=Standard, 2=Screen
+Type . . .........
+*MEDIUM
+*LIGHT, *MEDIUM, *DARK
+*HIGHLIGHT, 0.01-100.00 (%)
+Text:
+Text data
+.........
+More...
+More...
+F3=Exit
+F4=Prompt
+F5=Refresh
+F6=Change measurement method
+F12=Cancel
+F12=Cancel
+254
+AFP Utilities for iSeries: User’s Guide

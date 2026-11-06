@@ -1,0 +1,8 @@
+Create account
+Full name
+Email
+Phone
+Sign up
+Sara Haddad
+someone@example.com
++1 555 136 8639

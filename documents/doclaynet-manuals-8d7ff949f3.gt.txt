@@ -1,0 +1,89 @@
+Page Segment Element ..............................4
+5
+3
+Record Layout Element ..............................4
+5
+3
+Tasks Related to Database File Selection .........................4
+5
+4
+Tasks Related to Record Selection............................4
+5
+4
+Tasks Related to Overlay Specifications and PFD Specifications..................4
+5
+4
+Tasks Related to Font................................4
+5
+Task Related to Printout Specifications ..........................4
+5
+6
+Task Related to Mapping Object ............................4
+5
+6
+Task Related to Break Fields .............................4
+5
+6
+Appendix F. Portability to Other Systems ....................457
+Restrictions ...................................4
+5
+7
+I
+P
+D
+ST
+o
+w
+e
+r
+s.................................4
+5
+7
+PT2 Tower (Underline and Overstrike) .........................4
+5
+7
+Fonts ....................................4
+5
+8
+Page Segments .................................4
+5
+8
+PSF (Print Service Facility) .............................4
+5
+8
+Appendix G. Sample Overlays and Sample PFD Definitions ............459
+Sample Overlays .................................4
+5
+9
+DMAS Forms .................................4
+5
+9
+MAPICS/DB Forms ...............................4
+6
+0
+Sample PFD Definitions...............................4
+6
+0
+AIAG (Automotive IndustryAction Group) Labels.....................4
+6
+1
+EIA(Electronic IndustriesAssociation) Labels ......................4
+6
+1
+AFP Utilities Tutorial PFD Definitions .........................4
+6
+1
+Appendix H. Code 128 Character Set ......................463
+Appendix I. Font Samples ...........................465
+Times New Roman Medium .............................4
+6
+5
+Helvetica Roman Bold ...............................4
+6
+Courier ....................................4
+6
+Glossary ..................................467
+467
+Index ....................................475
+ix
+Contents

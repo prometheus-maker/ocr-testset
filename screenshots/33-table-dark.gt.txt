@@ -1,0 +1,8 @@
+Orders
+ID	Customer	Status	Amount
+8548	Maya Okafor	Pending	£6,263.67
+9231	Ken Ito	Paid	£1,486.86
+9486	Jonas Lind	Refunded	$6,986.96
+4376	Ana Kovač	Pending	£9,808.53
+8900	Elena Rossi	Pending	£9,608.29
+1335	Sara Haddad	Refunded	$2,982.38

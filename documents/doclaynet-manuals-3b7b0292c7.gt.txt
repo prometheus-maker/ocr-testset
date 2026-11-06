@@ -1,0 +1,8 @@
+CVTPFMPAGS (Convert Physical File Member to Page Segment)
+Command
+This command allows you to convert a member in a physical database file to a
+page segment. The member must contain IMDS (Image Data Stream) format or
+IOCA function set 10 image data.
+The following figure shows the command syntax for CVTPFMPAGS command.
+378
+AFP Utilities for iSeries: User’s Guide

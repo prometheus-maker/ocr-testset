@@ -1,0 +1,66 @@
+You can create an overlay from this display. Except for the overlay name, the
+default names and text description are the same as those of the source overlay. The
+first eight characters of the source overlay name are used as the default overlay
+name.
+Example Actions:
+1.
+Type
+Y
+for the
+Create overlay
+prompt.
+2.
+Press the Enter key.
+The Work with Source Overlays display appears with completion messages. A +
+character at the end of the message line indicates that there are more messages
+remaining. In this case, the completion message for creating an overlay is the
+remaining message.
+To look at the remaining message, move the cursor to the message line and press
+the Page Down (Roll Up) key. You should look at the remaining messages because
+error messages may be displayed.
+Work with Source Overlays
+File
+. . ........
+OVLFILE
+Name, F4 for list
+Library........
+OVLLIB
+Name, *LIBL, *CURLIB
+Source overlay
+.....
+*ALL
+Name, generic*, *ALL
+Position to.......
+Starting characters
+Type options, press Enter.
+1=Create
+2=Change
+3=Copy
+4=Delete
+6=Print
+7=Rename
+9=Create overlay
+Source
+Opt
+Overlay
+Text
+Changed
+STATIONERY
+Sample Form number 3
+12/12/90
+Bottom
+Parameters or command
+===>
+F3=Exit
+F4=Prompt
+F5=Refresh
+F9=Retrieve
+F11=Display names only
+F12=Cancel
+Source overlay STATIONERY saved in file OVLFILE successfully.
++
+Example Action:
+Press the F3 key.
+The IBM Advanced Function Printing Utilities for iSeries menu appears.
+55
+Chapter 3. Getting Started with the Overlay Utility

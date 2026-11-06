@@ -1,0 +1,8 @@
+Orders
+ID	Customer	Status	Amount
+1584	Priya Raman	Paid	€2,685.19
+5743	Jonas Lind	Pending	€8,987.16
+5807	Nina Petrova	Paid	€3,928.06
+6044	Omar Said	Paid	£1,162.38
+7605	Luis Ferreira	Pending	€6,795.13
+2628	Ana Kovač	Refunded	€7,767.43

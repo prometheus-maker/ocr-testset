@@ -1,0 +1,53 @@
+Prompts
+Table18.WorkwithPFDDefinitionsprompts
+Table18.WorkwithPFDDefinitionsprompts
+Prompt
+Description
+File
+Specifies the PFD definition file that contains the PFD definitions you
+want to list and work with.
+Press F4 to go to a selection list of PFD definition files in the specified
+library.
+Library
+Specifies the name of the library that contains the PFD definition file
+containing the PFD definitions you want to work with. The possible
+library values in this field are:
+*LIBL
+To specify the file containing the PFD definitions you want to
+work with is in one of the libraries in the library list.
+*CURLIB
+To specify that the file containing the PFD definitions you want
+to work with is the current library. If no library is specified as
+the current library for the job, library QGPL is used.
+library-name
+Specifies the name of the library that contains the file
+containing the PFD definitions you want to work with.
+PFD definition
+Specifies that you want to work with all the PFD definitions in the file
+or a subset of the PFD definitions in the file. Choose from the following:
+PFD definition name
+Specifies a PFD definition name for a display with only that
+PFD definition name in the list.
+generic name
+Specifies a partial name of the PFD definition name qualified
+by an asterisk (*) to display a specific subset of PFD definitions.
+The generic name is the following format:
+ABC*
+Displays a list of all PFD definitions that begin with
+the characters ABC. For example, ABC, ABCD, and
+ABCTEST.
+*ALL
+To display all the PFD definitions in the specified file.
+Position to
+This prompt is used for quick repositioning of the list, not for creating a
+subset of the list. Choose one of the following:
+*TOP
+To go to the top of the list.
+*BOT
+To go to the bottom of the list.
+name or partial name
+Specifies the name or partial name you want to go to in the list.
+The list is positioned to the first name beginning with the string
+specified.
+144
+AFP Utilities for iSeries: User’s Guide

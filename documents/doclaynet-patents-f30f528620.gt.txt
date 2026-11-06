@@ -1,0 +1,149 @@
+7 
+EP 2 000 008 B1
+8 
+precursor zones via pump 58 or another source of suc-
+exhaust paths from each of the zones.
+tion. Optionally, pump 58 may be coupled to all zones,
+[0028]
+As described above, the precursor zones 14,
+withflowfromthe various zones beingcontrolled tomain-
+16
+may be pumped to achieve an isolating pressure dif-
+tainthe pressure differential. Themigration of precursors
+ferential between the isolation zone and the precursor
+from the precursor zones 14, 16 into the isolation zone
+zones. In one configuration(not shown), separate pumps
+20
+may also be prevented or limited by controlling both
+couldbeusedfor eachofthe zones 14, 16, 20, preventing
+the relative flow rates of gases into the zones and pump-
+mixing of precursor gases in the pump stack and the at-
+ingspeedsfromthezones, through the use offlowcontrol
+tendant growth of material or reaction byproducts in any
+valves or other flow control devices. A control system
+of the pumping lines, therebypreventingpowderandres-
+(not shown) responsive to pressure sensors in the vari-
+idue from accumulating and clogging the pump stack.
+ous zones may also be utilized to control gas injection
+Another way to inhibit undesirable material deposits in
+and exhaust flow rates to help maintain a desired pres-
+thepump stackisto trap exhaust precursors usinga pre-
+sure differential.
+cursor trap 59, such as a simple inline liquid nitrogen
+[0025]
+In one example, isolation zone 20 operates at
+cooled trap, for example model TLR4XI150QF sold by
+a pressure ofapproximately(5 millitorr)(i.e., the inert gas
+Kurt J. Lesker Company (www.lesker.com). Similar pre-
+injection pressure maybe0,67Pa (5 millitorr)), andpres-
+cursor traps may be placed in each of the precursor ex-
+sure differentialsof approximately0.013Pa (0.1millitorr))
+haust lines upstream of their junction before the pump
+are maintained between isolation zone 20 and each of
+58.
+By using inert gases and precursor materials having
+theprecursor zones14, 16, so thatan operatingpressure
+different vapor pressures at a given temperature, it may
+of approximately (0.65 Pa) (4.9 millitorr) is maintained in
+be possible to trap andreclaimup to approximately100%
+precursor zones 14, 16 by way of suction applied to pre-
+of exhaust precursor gases, while passing inert gases to
+cursor zones 14, 16 by pump 58. Lower and significantly
+the pump stack. And because different precursors are
+higher pressure differentials may also be used in some
+notmixedinthe zones,theprecursor purityismaintained,
+embodiments. The necessary pressure differential will
+enabling up to 100% utilization of precursor materials.
+be affected by the geometry of passageways 54, 56 (in-
+Oncefilled, traps 59may beturned into precursor sourc-
+cluding height, width, and tunnel length, if applicable),
+es by replacing the liquid nitrogen with a heated liquid or
+the headroom and margins around substrate 12 within
+by activating heating elements outside the trap, then re-
+passageways 54, 56, the transport speed of substrate
+versing
+the
+pumping
+direction
+or
+closing
+an
+isolation
+12, the surface roughness of substrate 12 and passage-
+valve (not shown) between pump 58 and trap 59. The
+ways 54, 56, and the location at which inert gas is inject-
+particular operating temperatureof trap/ sourcewould de-
+ed, such as direct injection into passageways 54, 56 or
+pend on the precursor being trapped and its vapor pres-
+generally into inert gas chamber 50. Other factors, such
+sure. A liquid nitrogen trap, for example, may operate at
+as operating temperature, pressure, precursor species,
+lower than 100° Kelvin. Additional trap/source configu-
+and substrate type, may also affect the amount of pres-
+rations are described below with reference to FIG. 4.
+sure differential necessary to inhibit or prevent migration
+[0029]
+A substrate transport mechanism 60 of system
+of precursor gases through passageways.
+10
+includes multiple turning guides for guiding substrate
+[0026]
+In some ALD processes, precursor gases hav-
+12, including a set of firstturning guides 64 spacedapart
+ing a very low vapor pressure are utilized. To facilitate
+along first precursor zone 14 and a second set of turning
+pumping and diffusion control, inert gas may be mixed
+guides66 spaced apart alongsecond precursor zone 16.
+with such precursor gases, either before or after intro-
+40
+Turning guides 64, 66 cooperate to define an undulating
+duction of the precursor gases into the system 10, to
+transport path of substrate 12 as it advances through
+control the pressure within precursor zones 14, 16.
+system 10. The substrate transport mechanism 60 may
+[0027]
+In some embodiments, it may be desirable to
+include a payout spool 72 for paying out substrate 12
+equalize the pressures, or to deliberately mismatch the
+from a first coil (input roll 74) for receipt at a first end 76
+pressures in two or more precursor zones to optimize
+of isolation zone 20, vessel 30, or one of the precursor
+growth conditions, or improve utilization of precursor ma-
+zones 14,
+16.
+The substrate transport
+mechanism
+60
+terials. It may also be desirable to pump two or more of
+may further include a take-up spool 82 for receiving the
+the zones separately, and introduce inert gas into the
+coated substrate 12 from a second end 84 of isolation
+precursor zones separately to further reduce zone mi-
+zone 20, vessel 30, or one of the precursor zones 14, 16
+gration; for instance, a cross- flow condition may be used
+opposite first end 76, and coiling the substrate 12 into a
+to flowprecursor ina direction orthogonal to the passage-
+take-up roll 86 or second coil. Payout spool 72 and/or
+ways54, 56 (betweenfirst and secondends72, 84). Inert
+take-up spool 82 may be located within vessel 30, such
+gas may be introduced locally within or near passage-
+as within
+isolation
+zone
+20, as depicted in FIGS. 1-2.
+ways 54, 56, to inhibit gases from either adjacent zone
+Alternatively, payout and take-up spools 72, 82 may be
+fromcrossingthrough passageways54, 56. If further iso-
+locatedoutsideofvessel 30(i.e.,outside ofisolation zone
+lation is necessary,
+multiple differentially-
+pumped and
+20
+and first and second precursor zones 14, 16), as de-
+purgedzones may beusedin series, with flow-
+restricting
+picted in FIGS. 3 and 4. Input and take-
+up rolls 74, 86
+passagewaysorwipervalve isolation between zonesand
+will change diameter during operation of system 10, and
+5

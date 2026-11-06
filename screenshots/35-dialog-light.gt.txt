@@ -1,0 +1,5 @@
+Warning
+
+The file could not be saved because the disk is full.
+
+Cancel OK

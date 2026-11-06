@@ -1,0 +1,8 @@
+Create account
+Full name
+Email
+Phone
+Sign up
+Luis Ferreira
+someone@example.com
++1 555 646 6042

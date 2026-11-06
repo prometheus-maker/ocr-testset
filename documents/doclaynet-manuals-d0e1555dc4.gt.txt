@@ -1,0 +1,153 @@
+Design Overlay
+Columns:
+1- 74
+Control
+. . ______
+Source overlay.....STATIONERY
+*...+....1....+....2....+....3....+....4....+....5....+....6....+....7....
+001
+%S030
+002
+*T001
+Stationery Co., Ltd.
+003
+004
+*T002 rd Stationery Sales Slip
+Date:
+/
+/
+005
+*L003 ------------------------
+*L026 --
+006
+007
+*B004 -----------*L017 -------:----------*L020 --------+
+008
+:
+*T021
+: *T022 ty
+: *T023
+: *T025
+( $ ):
+009
+:
+: *T024
+:
+:
+010
+*L012 -----------:------------:----------:--------------
+011
+: *T013 oint Pen :
+:
+:
+:
+012
+*L011 -----------:------------:----------:--------------
+More...
+Place Page Segment
+Mark......:*S030
+Measurement method....:Row/Column
+Position .....Across
+60
+Down
+1
+Page Segment . . .
+QFCLOGO
+Name
+F3=Exit
+F4=Detail
+F6=Change measurement method
+F12=Cancel
+F24=More keys
+Example Actions:
+1.
+Type
+QFCLOGO
+for the
+Page segment
+prompt.
+2.
+Press the Enter key.
+Note:
+The page segment you specify is not searched for now, but is searched for in
+the libraries in the library list when the overlay is printed. See “Page
+Segment” on page 392 for more information.
+The mark changes from %S030 to *S030 to indicate the element has been placed.
+Design Overlay
+Columns:
+1- 74
+Control
+. . ______
+Source overlay.....STATIONERY
+*...+....1....+....2....+....3....+....4....+....5....+....6....+....7....
+001
+*S030
+002
+*T001
+Stationery Co., Ltd.
+003
+004
+*T002 rd Stationery Sales Slip
+Date:
+/
+/
+005
+*L003 ------------------------
+*L026 --
+006
+007
+*B004 -----------*L017 -------:----------*L020 --------+
+008
+:
+*T021
+: *T022 ty
+: *T023
+: *T025
+( $ ):
+009
+:
+: *T024
+:
+:
+010
+*L012 -----------:------------:----------:--------------
+011
+: *T013 oint Pen :
+:
+:
+:
+012
+*L011 -----------:------------:----------:--------------
+013
+: *T014
+:
+:
+:
+:
+014
+*L010 -----------:------------:----------:--------------
+015
+: *T015
+:
+:
+:
+:
+016
+*L009 -----------:------------:----------:--------------
+017
+: *T016
+:
+:
+:
+:
+More...
+F3=Exit
+F6=Text
+F9=Line
+F10=Box
+F11=Bar code
+F21=Element edit
+F22=Block edit
+F24=More keys
+52
+AFP Utilities for iSeries: User’s Guide

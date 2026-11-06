@@ -1,0 +1,8 @@
+Create account
+Full name
+Email
+Phone
+Sign up
+Jonas Lind
+someone@example.com
++1 555 913 3793

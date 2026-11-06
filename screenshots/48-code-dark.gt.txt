@@ -1,0 +1,7 @@
+1  
+  2  for user in users:
+  3      if user.active and not user.banned:
+  4          send_welcome(user.email)
+  5  
+  6  const limit = 25;
+  7  fetch(`/api/orders?page=${page}`)

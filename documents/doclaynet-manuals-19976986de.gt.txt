@@ -1,0 +1,55 @@
+The PFD definition files you previously chose to delete (option 4), are listed.
+Confirm the list and press Enter to delete these files or press the F12 key to return
+to change your choice(s) on the Work with PFD Definition Files display on page
+205.
+When the files are deleted, the screen returns to the Work with PFD definition files
+with a message in the 24th line. When two or more files are deleted, a message is
+sent for each file, and a plus (+) sign appears in the rightmost column of the 24th
+line to indicate that more messages are sent from the system. They will be
+displayed one after another by pressing the Page-down key after moving the
+cursor to the 24th line.
+7=Rename PFD Definition File
+To rename a PFD definition file, do the following on the Work with PFD Definition
+Files display:
+1.
+Type
+7
+in the
+Opt
+column beside the PFD definition file you want to rename.
+2.
+Press Enter.
+The Rename Object display appears. Type the new name of the PFD definition file
+in the
+New object
+prompt.
+8=Display Description of PFD Definition File
+To display the description of the PFD definition file, do the following on the Work
+with PFD Definition Files display:
+1.
+Type
+8
+in the
+Opt
+column beside the PFD definition file for which you want to
+display the description.
+2.
+Press Enter.
+The display object description (DSPOBJD) command is called and the description
+of the PFD definition file is displayed.
+12=Work with PFD Definitions
+To go to the Work with PFD Definitions display, do the following on the Work
+with PFD Definition Files display.
+1.
+Type
+12
+in the
+Opt
+column beside the PFD definition file that contains the PFD
+definitions you want to work with.
+2.
+Press Enter.
+The Work with PFD Definitions display appears.
+See “Chapter 10. Work with PFD Definitions” on page 143 for more information.
+214
+AFP Utilities for iSeries: User’s Guide

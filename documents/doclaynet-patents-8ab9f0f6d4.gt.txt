@@ -1,0 +1,197 @@
+9 
+EP 1 499 943 B1
+10 
+to the highest level of performance 
+204
+. However, the
+ance state. In one embodiment, the processor may per-
+processing load may not increased thus decreasing the
+form at the higher performance state for an extended
+actualpercent CPUutilization 
+201
+ from,forexample 50%
+sustainable period of time. In this embodiment, the high-
+to 48% CPU utilization 
+201
+. In one embodiment, a more
+est performance state in combination with the heat dis-
+rapid transition for prioritized events occurs since they
+sipationcapacityofthe systemissuch thateither extend-
+are asynchronous and often happen when the system is
+ed performance will not thermally damage any compo-
+"ready" for more work (idle.)
+nent withinthesystemor provisionsfor an overridemode
+[0040]
+In one embodiment, a user may increase the
+are implemented.In one embodiment, theprocessormay
+processing
+time
+for
+software-
+initiated
+events.
+For
+in
+-
+performat the higher performancestate for a momentary
+stance, an Excel chart and graph would likely compute
+ortransitoryperiodoftimedue tothermalconsiderations.
+and re-graph more quickly as a result of a user depress-
+[0045]
+Figure 3 illustrates a graph of various perform-
+ing a key on the keyboard. The occurrence of the user
+ance states of one embodiment of an integrated circuit
+event causes the algorithm to immediately transition to
+having
+multiple performance
+states including the
+per-
+higher levels of performance irrespective of the actual
+formance state of operating at a higher state of perform-
+average percent CPU utilization. Thus in one embodi-
+ance for a transient period of time. In one embodiment,
+ment, even during a software initiated processing task,
+the higher performance state of the processor may not
+such as the calculation for the Excel spreadsheet, the
+be sustained for extended periods of time without poten-
+user mayincreasetheprocessingrate ofthoseequations
+tially causing a failure in the system due to overheating
+by simply depressing a key.
+a component. The graph illustrates the operational fre-
+[0041]
+The computing system can be made aware of
+quency of the processor over time. Three performance
+user events,such as keystrokes,mouse movement,joy-
+states are shown, such as at 500 MHz, the idle state of
+stick inputs, mouse clicks, human commands via micro-
+performance 
+302
+, at 1000 MHz, the thermal maximum
+phone, etc. In one embodiment, the programming envi-
+state of performance 
+304
+, and at 2000 MHz, the actual
+ronment within which the processor is operating defines
+highest state of performance 
+306
+ referred to as the peak
+the user event. In this embodiment, the operating envi-
+virtual MHz. Multiple user events 
+308
+ occur during this
+ronment may define what event constitutes a user event
+timeperiodon the graph aswellasnon- user events 
+310
+.
+and how to detect that event.
+[0046]
+Processing
+requests
+initiated
+by
+a
+non-
+user
+[0042]
+In oneembodiment, the algorithmto controlthe
+event 
+310
+, such as application program, may only tran-
+performance state of the processor may reside in the
+sition the processor to the thermal higher state of per-
+operating software. In one embodiment, the algorithm to
+formance 
+304
+. The processor and other system compo-
+control the performance state of the processor may re-
+nents may operate at the thermal maximum state of per-
+side in the 
+B
+asic 
+I
+nput 
+O
+utput System (BIOS). The BIOS
+formance 
+304
+ for sustained periodsoftimewithoutfailure
+can be an essential set of routines in a personal compu-
+dueto thermal considerations. A thermalguard band 
+312
+ter, which is stored on a chip and provides an interface
+exists between the actual higher state of performance
+between the operating system and the hardware of the
+306
+ and the thermalmaximumstateof performance 
+304
+.
+computer. In this embodiment, depending on the pro-
+Prolonged operation at operating frequencies and volt-
+gramming language and system architecture, the BIOS
+ages above the thermal maximum state of performance
+may be directly aware that a user event has occurred or
+304
+ could damagethermally sensitive componentssuch
+may receive a notification, for example, from the operat-
+as integrated components.
+ing system that a user event has just occurred. In one
+[0047]
+However, the occurrence or repetition of user
+embodiment, the algorithm to control the performance
+events 
+308
+ occurs very slowly in respect to processing
+state of the processor may reside as an application pro-
+time. Many hundreds or thousands of non-user event
+gram, an executable program module, or other similar
+processingrequests 
+310
+ maybe responded to by a proc-
+program. In this embodiment, the application program,
+essor in the time frame it takes for a user to depress a
+an executableprogram module, or other similar program
+first key and then a second key. Usually, a large relative
+may directly detect when a prioritized event such as a
+lag time exists between a first user event 
+316
+ and a sec-
+user event occurs or receive a notification from the op-
+ond user event 
+318
+. The large time lag in between user
+erating system that the prioritized event occurred.
+events 
+308
+ generally allowsthe heat dissipation capacity
+[0043]
+In one embodiment, the threshold to trigger a
+of the computing system to remove the extra heat gen-
+transition in non-prioritized events may be a specific av-
+erated by transitioning to the actual maximum state of
+erage percent utilization of the CPU, such as 85%, tran-
+performance 
+306
+ in response to the first user event 
+316
+sitions based upon the idle vs. active ratio, or any other
+prior to the processor transitioning again to the actual
+similar predefined threshold.
+maximum state of performance 
+306
+ in response to the
+[0044]
+In one embodiment, the algorithm controlling
+second user event 
+318.
+the performance state of the processor may be split into
+[0048]
+However, some design safety precautions can
+two discrete algorithms. A first algorithm to control tran-
+be added.In oneembodiment, the transitionto the actual
+sitioning to a higher performance state. Likewise, a sec-
+maximum state of performance 
+306
+ is for a transitory
+ond algorithm to control transitioning to a lower perform-
+periodthat ensuresno component failures willoccur due
+6

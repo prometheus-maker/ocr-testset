@@ -1,0 +1,23 @@
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+CERTIFICATE OF CORRECTION 
+PATENT NO. 
+: 6,482,565 Bl 
+Page 2 of 5 
+DATED 
+: November 19, 2002 
+INVENTOR(S) 
+: Jae Chang et al. 
+It is certified that error appears in the above-identified patent and that said Letters Patent is 
+hereby corrected as shown below: 
+Column 4, 
+Lines 30-40, please replace Chemical Formula 4 with the following Chemical 
+Formula 4: --
+Lines 43-50, please replace Chemical Formula 5 with the following Chemical 
+Formula 5: 
+Line 54, the phrase "I is a number of Oto 5;" should read --
+l 
+is a number of Oto 5; --. 
+Column 5, 
+Lines 19-20, the phrase "In the following Reaction Scheme 1, m of the Chemical 
+Formula 1 is O:" should read -- In the following Reaction Scheme 1, m of the Chemical 
+Formula 1 is 0: --. 

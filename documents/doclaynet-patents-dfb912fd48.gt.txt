@@ -1,0 +1,259 @@
+5 
+EP 1 499 943 B1
+6 
+tion logic 
+134
+ includes circuitry that doubles, triples or
+a higher stateofperformancetoalower state of perform-
+otherwise multiplies the clock frequency by an integer or
+ance and a second algorithm to transition processor 
+112
+rational value before sending the clock signal onto inter-
+from a lower state of performance to a higher state of
+nal execution units of the processor 
+112.
+ For one em-
+performance.
+bodiment, processor 
+112
+ itself includes circuitry thatdou-
+[0025]
+Note, various other configurations and imple-
+bles, triples or otherwise multiplies the clock frequency
+mentations in accordance with alternate embodiments
+by an integer or rational value before sending the clock
+of the present invention may exist.
+signal onto internalexecution unitsoftheprocessor 
+112.
+[0026]
+For
+example,
+in
+one embodiment,
+processor
+For example, the operating frequency of the processor
+112
+ may be a singleprocessor capableof operating with
+112
+ may be 250 megahertz ata lowstateof performance
+variable operating frequenciesand voltagelevels. Inone
+and even integer of eight times the initial frequency, or
+embodiment, processor 
+112
+ may be two or more proc-
+2000 megahertz,at a higher state ofperformance.Inone
+essors working inconjunction to respondto the process-
+embodiment, the clock couples to and controls the fre-
+ing load. In one embodiment, processor 
+112
+ may be a
+quency at which the processor 
+112
+ operates.
+chipset having multiple performance modes.
+[0022]
+In one embodiment, processor 
+112
+ uses th
+e
+[0027]
+For example, thepower management algorithm
+voltage supplied by voltage regulator logic 
+130
+ to power
+136
+ may be software based or hardware based such as
+its operation. Voltage regulator logic 
+130
+ couples to a
+arbitration logic may be shared between the processors
+power supply 
+132
+ such asa battery ina batteryoperated
+or a combinationofsoftwarebased andhardware based.
+computer system and generates the supply voltage that
+[0028]
+For
+example,
+in
+one
+embodiment" the power
+is supplied to processor 
+112
+. In one embodiment, the
+management algorithm 
+136
+ detects a user event. Upon
+voltage regulator couples to the processor in order to
+detecting the user event, the power management algo-
+determine the voltage at which the processor operates.
+rithm 
+136
+ triggers the multiple performance state com-
+For example, the voltage regulator logic may supply a
+puter system 
+100
+ to transition to a higher performance
+1.8voltsvoltage leveland a higher3.3voltsvoltagelevel.
+state. The processor 
+112
+ has multiple states of perform-
+[0023]
+In one embodiment, a power management al-
+ance includinga first state ofperformance, asecond state
+gorithm 
+136
+, in response to a particular predefined con-
+of performance higher thanthe firststate ofperformance,
+dition, such as a preset percent utilization of the proces-
+and a third state of performance higher than the second
+sor, signals the frequency regulation logic 
+134
+ to lower
+state of performance. The algorithm directly transitions
+the operating frequency supplied to the processor 
+112
+.
+the processor 
+112
+ from the first state of performance to
+Thus, the predefined condition lowers the frequency at
+the third state of performance based upon detecting the
+which the processor 
+112
+ operates. Once the frequency
+user event. Note, the third state of performance may or
+is reduced, the frequency regulation logic 
+134
+ commu-
+may not be the maximum state of performance that the
+nicates directlywiththevoltageregulator logic 
+130
+, telling
+processor 
+112
+ can achieve.
+130
+the voltage regulator logic 
+ to lower the voltage sup-
+[0029]
+For example, in one embodiment, a prioritized
+plied to the processor 
+112
+. The voltage regulation logic
+event may bea directrequest for thehighest performance
+130
+ complies, and the processor 
+112
+ continues to oper-
+state directly or indirectly by initiating or simulating a be-
+ate in this lower power performance state, reducing the
+nign user event by an application is aware of the power
+power drain on the power supply 
+130
+.
+management algorithm 
+136
+.
+[0024]
+In one embodiment,the power management al-
+[0030]
+Figure 2 illustrates a graph of various perform-
+gorithm 
+136,
+ in response to a particular prioritized event,
+ance states of one embodiment of an integrated circuit
+such as detection of a user event, signals the frequency
+having multiple performance states. The top graph illus-
+regulation logic 
+134
+ to raise the frequency to the higher
+trates the average percent CPU utilization 
+201
+ over time
+operating frequency so that the processor can again op-
+203
+ for bothin response to theoccurrence of a prioritized
+erate at full speed. Before raising the frequency, howev-
+event 
+207
+ and in response to the occurrence of non-
+er, the frequency regulation logic 
+134
+ communicates di-
+prioritized events 
+209
+. The bottom graph illustrates per-
+rectly with the voltage regulation logic 
+130
+, signaling the
+formance levelof the processor 
+205
+ over the same time-
+voltage regulation logic 
+130
+ to raise the supply voltage
+line for both inresponsetotheoccurrence ofa prioritized
+to the higher voltage level. The voltage regulation logic
+event 
+211
+ and in response to the occurrence of non-
+134
+ responds tothisrequest and uponcompletion direct-
+prioritized events 
+213
+. The dotted line represents an ex-
+ly communicates back to the frequency regulation logic
+emplary average percent CPU utilization by non-priori-
+134
+ that the supply voltage has been raised. Upon re-
+tized events 
+209
+ and the performance level transitions
+ceiving this information from the voltage regulation logic
+in responseto thosenon- prioritized events 
+213
+. Thesolid
+130
+, the frequency regulation logic 
+134
+ then raises the
+line represents an exemplary average percent CPU uti-
+frequency back to the higher value in order to allow the
+lization by a prioritized event 
+207
+ and the performance
+processor 
+112
+to
+operate
+at
+the
+higher
+performanc
+e
+level transition in response to the prioritized event 
+211
+.
+state. In one embodiment, the power management algo-
+The
+algorithm to control
+the
+performance
+state
+of the
+rithm 
+136
+ is split into two discreet algorithms. A first al-
+processor
+may
+prioritize
+certain
+events
+such as
+user
+gorithm to decrease the transition of processor 
+112
+ from
+events, so that the occurrence of the prioritized event
+4

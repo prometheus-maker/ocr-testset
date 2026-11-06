@@ -1,0 +1,7 @@
+$ python -m pytest -q
+48 passed, 2 skipped in 3.91s
+$ docker ps
+CONTAINER ID   IMAGE          STATUS
+3f2a9c1d8e7b   nginx:1.27     Up 4 hours
+$ df -h /
+/dev/sda1  234G  151G   72G  68% /
